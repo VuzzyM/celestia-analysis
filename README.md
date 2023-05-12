@@ -86,7 +86,7 @@ The next day later with version 0.9.3 the consumption shows an average of 1-2% c
 
 The third day with version 0.9.4 the consumption shows an average of 3-4% cpu, the network sending/upload consumption is on average 200 kB/s, the receive/download consumption is on average 0-170 kB /s. The ram used virtual memory is 600 MB.
 
-![5-1](https://github.com/VuzzyM/celestia-analysis/assets/66425682/5c83263c-5add-4ea1-b838-f4fba31d13fa)
+![5-1](https://github.com/VuzzyM/celestia-analysis/assets/66425682/d51da9aa-3c95-4eea-8821-8d4b5a4d4f4b)
 ![5-2](https://github.com/VuzzyM/celestia-analysis/assets/66425682/0ee58fd0-47fb-44d3-96d3-7eb8f2c86311)
 
 
