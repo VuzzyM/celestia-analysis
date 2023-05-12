@@ -54,7 +54,7 @@ Celestia Data-Analysis: Is tool based on system resource monitor.
 **Analyze Celestia Node Server on different period:**
 
 The time and date is in the corner of the image, the time zone is EEST.
-I analyzed the celestia node for 2 days and here is the result.
+I analyzed the celestia node for 3 days and here is the result.
 
 The server's IP is censored in red, for security reasons.
 
